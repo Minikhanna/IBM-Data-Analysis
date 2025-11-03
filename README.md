@@ -1,4 +1,5 @@
-IBM DATA ANALYSIS PROJECT
+**IBM DATA ANALYSIS PROJECT**
+
 Objectives of the Analysis
 1. Understand Current Turnover Rates: Gain a comprehensive understanding of
 the current employee turnover rate and analyze the demographic distribution of
